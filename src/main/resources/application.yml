@@ -1,0 +1,6 @@
+server:
+  port: 1234
+
+auth:
+  jwt:
+    publicKeyUrl: "http://localhost:8081/oauth/token/public_key"
